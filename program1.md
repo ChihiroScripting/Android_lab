@@ -1,5 +1,9 @@
 [//]: # (title: Hello world)
 
+<microformat>
+    <p><img src="icon-1.svg" width="20" alt="" /> <strong>Hello world</strong><br />
+    
+</microformat>
 
 Here is a simple program that prints "Hello, world!":
 
