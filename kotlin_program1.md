@@ -118,6 +118,4 @@ fun main() {
 ```
 {initial-collapse-state="collapsed" collapsed-title="Example solution" id="kotlin-tour-hello-world-solution"}
 
-## Next step
 
-[Basic types](kotlin-tour-basic-types.md)
